@@ -10,25 +10,9 @@
   <li>Data Science and Math</li>
     </ul>
   </li>
-  
   <li>📫 Reach me via alananalyst00@gmail.com</li>
   <li>⚡ Fun fack I speak English, Spanish, Kurdish and Arabic!</li>
-  
-  
 </ul>
-  
-
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Alan-Analyst&show_icons=true&theme=radical'/>
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Analyst&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## Languages and Frameworks:
@@ -50,3 +34,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<div>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Alan-Analyst&show_icons=true&theme=radical'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Analyst&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
+</div>
