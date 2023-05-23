@@ -1,5 +1,5 @@
 ## Hi there 👋, My name is Alan
-#### I am a self-taught junior data analyst and back-end developer.
+#### I am a self-taught data analyst and Python developer.
 
 <ul>
   <li>📚 I’m currently learning more about back-end develompents.</li>
