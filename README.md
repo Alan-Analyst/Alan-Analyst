@@ -11,7 +11,7 @@
     </ul>
   </li>
   <li>📫 Reach me via alananalyst00@gmail.com</li>
-  <li>⚡ Fun fack I speak English, Spanish, Kurdish and Arabic!</li>
+  <li>⚡ Fun fact I speak English, Spanish, Kurdish and Arabic!</li>
 </ul>
 
 
