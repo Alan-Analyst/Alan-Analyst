@@ -37,5 +37,5 @@
 
 <div>
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Alan-Analyst&show_icons=true&theme=radical'/>
-<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Analyst&layout=pie)](https://github.com/anuraghazra/github-readme-stats)'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Analyst&size_weight=0.5&count_weight=0.5'/>
 </div>
