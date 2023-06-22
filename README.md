@@ -37,6 +37,5 @@
 
 <div>
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=Alan-Analyst&show_icons=true&theme=radical'/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Analyst&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
 </div>
